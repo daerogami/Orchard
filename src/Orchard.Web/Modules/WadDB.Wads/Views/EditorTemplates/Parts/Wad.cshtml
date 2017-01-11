@@ -1,0 +1,8 @@
+﻿@using WadDB.Wads.Models
+@model WadPart
+
+<fieldset>
+    <legend>@T("Details")</legend>
+    @Html.LabelFor(m => m.Authors, T("Authors"))
+    @Html.TextBoxFor(m => m.Authors)
+</fieldset>

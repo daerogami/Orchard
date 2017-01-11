@@ -1,0 +1,10 @@
+﻿Name: WadDB.Wads
+AntiForgery: enabled
+Author: Mark Clark
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.10
+Description: This module is used for the management, archival and browsing of wads made for the doom engine.
+Features:
+    WadDB.Wads:
+        Description: This module is used for the management, archival and browsing of wads made for the doom engine.
